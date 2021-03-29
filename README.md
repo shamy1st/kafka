@@ -87,6 +87,32 @@
 ![](https://github.com/shamy1st/kafka/blob/main/images/theory-roundup.png)
 
 
+## Starting Kafka
+
+### Mac - Install using PATH
+
+* https://kafka.apache.org/downloads
+* Binary downloads:
+* Then download, then extract binaries to a specific directory
+* \> cd bin
+* \> brew tap caskroom/versions
+* \> brew cask install java8
+* you need java8, not java9, not java10, not java11 for now.
+* \> /installation/kafka_2.13-2.7.0/bin/kafka-topics.sh
+* \> cat ~/.bash_profile 
+* \> nano ~/.bash_profile
+* add kafka binaries path
+
+### Mac - Install using brew
+
+* \> brew install kafka
+
+### Mac - Start Zookeeper and Kafka
+
+* start zookeeper server
+* \> zookeeper-server-start.sh installation/config/zookeeper.properties
+
+
 # Kafka Real World Project
 
 
