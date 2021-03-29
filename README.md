@@ -70,6 +70,8 @@
 
 ### Kafka Broker Discovery
 
+![](https://github.com/shamy1st/kafka/blob/main/images/broker-discovery.png)
+
 ### Zookeeper
 
 ### Kafka Guarantees
