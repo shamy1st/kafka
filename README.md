@@ -119,6 +119,17 @@
 * start kafka
 * \> installation/bin/kafka-server-start.sh installation/config/server.properties
 
+## CLI (Command Line Interface) 101
+
+### Create Topic
+
+![](https://github.com/shamy1st/kafka/blob/main/images/cli-create-topic.png)
+
+### Delete Topic
+
+![](https://github.com/shamy1st/kafka/blob/main/images/cli-delete-topic.png)
+
+### 
 
 # Kafka Real World Project
 
