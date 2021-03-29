@@ -129,7 +129,17 @@
 
 ![](https://github.com/shamy1st/kafka/blob/main/images/cli-delete-topic.png)
 
-### 
+### Producer
+
+![](https://github.com/shamy1st/kafka/blob/main/images/cli-producer.png)
+
+![](https://github.com/shamy1st/kafka/blob/main/images/cli-producer-change-default.png)
+
+![](https://github.com/shamy1st/kafka/blob/main/images/cli-producer-change-default-2.png)
+
+### Consumer
+
+
 
 # Kafka Real World Project
 
