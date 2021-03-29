@@ -176,6 +176,12 @@
 
 ## Kafka Extended APIs for Developers
 
+### Kafka Connect Introduction
+
+![](https://github.com/shamy1st/kafka/blob/main/images/kafka-connect.png)
+
+### 
+
 ## Real World Insights and Case Studies (Big Data  Fast Data)
 
 ## Kafka in the Enterprise for Admins
