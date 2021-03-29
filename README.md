@@ -56,6 +56,14 @@
 
 ### Consumers & Consumer Groups
 
+![](https://github.com/shamy1st/kafka/blob/main/images/01-consumers.png)
+
+![](https://github.com/shamy1st/kafka/blob/main/images/02-consumers.png)
+
+![](https://github.com/shamy1st/kafka/blob/main/images/03-consumers.png)
+
+### Consumer Offsets & Delivery Semantics
+
 
 
 # Kafka Real World Project
