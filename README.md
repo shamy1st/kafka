@@ -163,7 +163,9 @@
 
 ### Resetting Offsets
 
+![](https://github.com/shamy1st/kafka/blob/main/images/consumer-group-offset-reset.png)
 
+![](https://github.com/shamy1st/kafka/blob/main/images/consumer-group-offset-reset-2.png)
 
 ### Kafka Tools UI
 
