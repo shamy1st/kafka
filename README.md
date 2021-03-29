@@ -48,6 +48,15 @@
 
 ### Producers and Message Keys
 
+![](https://github.com/shamy1st/kafka/blob/main/images/01-producers.png)
+
+![](https://github.com/shamy1st/kafka/blob/main/images/01-producers.png)
+
+![](https://github.com/shamy1st/kafka/blob/main/images/01-producers.png)
+
+### Consumers & Consumer Groups
+
+
 
 # Kafka Real World Project
 
