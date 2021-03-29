@@ -64,7 +64,17 @@
 
 ### Consumer Offsets & Delivery Semantics
 
+![](https://github.com/shamy1st/kafka/blob/main/images/01-consumer-offsets.png)
 
+![](https://github.com/shamy1st/kafka/blob/main/images/02-consumer-offsets.png)
+
+### Kafka Broker Discovery
+
+### Zookeeper
+
+### Kafka Guarantees
+
+### 
 
 # Kafka Real World Project
 
