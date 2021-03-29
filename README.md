@@ -172,18 +172,18 @@
 * https://www.kafkatool.com/
 
 
-## Kafka Java Programming 101
-
-
-
-
-# Kafka Real World Project
-
-
 # Kafka Ecosystem & Real-World Architectures
+
+## Kafka Extended APIs for Developers
+
+## Real World Insights and Case Studies (Big Data  Fast Data)
+
+## Kafka in the Enterprise for Admins
 
 
 # Advanced Kafka
+
+## Advanced Topics Configurations
 
 
 # Annexes
