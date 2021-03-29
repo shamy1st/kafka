@@ -1,6 +1,6 @@
 # Kafka
 
-## Introduction
+# Introduction
 
 ![](https://github.com/shamy1st/kafka/blob/main/images/01-how-companies-start.png)
 
@@ -20,20 +20,30 @@
 
 ![](https://github.com/shamy1st/kafka/blob/main/images/09-course-structure.png)
 
-## Kafka Fundamentals
+# Kafka Fundamentals
+
+## Kafka Theory
+
+### Topics, Partitions and Offsets
+
+![](https://github.com/shamy1st/kafka/blob/main/images/01-topics.png)
+
+![](https://github.com/shamy1st/kafka/blob/main/images/02-topics.png)
+
+![](https://github.com/shamy1st/kafka/blob/main/images/03-topics.png)
+
+### 
+
+# Kafka Real World Project
 
 
-## Kafka Real World Project
+# Kafka Ecosystem & Real-World Architectures
 
 
-## Kafka Ecosystem & Real-World Architectures
+# Advanced Kafka
 
 
-## Advanced Kafka
-
-
-## Annexes
-
+# Annexes
 
 
 ## Ref
