@@ -157,6 +157,16 @@
 
 ![](https://github.com/shamy1st/kafka/blob/main/images/cli-consumer-in-group-2.png)
 
+### kafka-consumer-groups
+
+![](https://github.com/shamy1st/kafka/blob/main/images/cli-kafka-consumer-groups.png)
+
+### Resetting Offsets
+
+
+
+### Kafka Tools UI
+
 
 
 # Kafka Real World Project
