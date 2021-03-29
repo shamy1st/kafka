@@ -74,7 +74,13 @@
 
 ### Zookeeper
 
+![](https://github.com/shamy1st/kafka/blob/main/images/01-zookeeper.png)
+
+![](https://github.com/shamy1st/kafka/blob/main/images/02-zookeeper.png)
+
 ### Kafka Guarantees
+
+
 
 ### 
 
