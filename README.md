@@ -40,6 +40,13 @@
 
 ### Topic Replication
 
+![](https://github.com/shamy1st/kafka/blob/main/images/01-topic-replication.png)
+
+![](https://github.com/shamy1st/kafka/blob/main/images/02-topic-replication.png)
+
+![](https://github.com/shamy1st/kafka/blob/main/images/03-topic-replication.png)
+
+### Producers and Message Keys
 
 
 # Kafka Real World Project
