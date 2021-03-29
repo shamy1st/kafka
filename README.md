@@ -32,7 +32,15 @@
 
 ![](https://github.com/shamy1st/kafka/blob/main/images/03-topics.png)
 
-### 
+### Brokers and Topics
+
+![](https://github.com/shamy1st/kafka/blob/main/images/01-brokers.png)
+
+![](https://github.com/shamy1st/kafka/blob/main/images/02-brokers.png)
+
+### Topic Replication
+
+
 
 # Kafka Real World Project
 
