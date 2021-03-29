@@ -18,7 +18,7 @@
 
 ![](https://github.com/shamy1st/kafka/blob/main/images/08-apache-kafka-examples.png)
 
-![](https://github.com/shamy1st/kafka/blob/main/images/09-course structure.png)
+![](https://github.com/shamy1st/kafka/blob/main/images/09-course-structure.png)
 
 ## 
 
