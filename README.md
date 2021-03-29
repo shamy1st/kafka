@@ -109,8 +109,15 @@
 
 ### Mac - Start Zookeeper and Kafka
 
+* modify dataDir=installation/data/zookeeper in config/zookeeper.properties
+* \> nano installation/config/zookeeper.properties
 * start zookeeper server
-* \> zookeeper-server-start.sh installation/config/zookeeper.properties
+* \> installation/bin/zookeeper-server-start.sh installation/config/zookeeper.properties
+
+* modify log.dirs=installation/data/kafka in config/server.properties
+* \> nano installation/config/server.properties
+* start kafka
+* \> installation/bin/kafka-server-start.sh installation/config/server.properties
 
 
 # Kafka Real World Project
