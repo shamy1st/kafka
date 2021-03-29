@@ -149,6 +149,13 @@
 
 ### Consumer in Group
 
+* the producers load will distribute over the consumers
+* if one of the consumers fail, the load will be distributed to others
+* if you close the consumer group command and start it again, it will start where it stopped because the offset is resetted
+
+![](https://github.com/shamy1st/kafka/blob/main/images/cli-consumer-in-group.png)
+
+![](https://github.com/shamy1st/kafka/blob/main/images/cli-consumer-in-group-2.png)
 
 
 
