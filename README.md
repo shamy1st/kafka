@@ -139,6 +139,17 @@
 
 ### Consumer
 
+* will consume only real-time when you start to consume
+
+![](https://github.com/shamy1st/kafka/blob/main/images/cli-consumer.png)
+
+* from begging will consume the topic from the begging till now + real-time
+
+![](https://github.com/shamy1st/kafka/blob/main/images/cli-consumer-from-begging.png)
+
+### Consumer in Group
+
+
 
 
 # Kafka Real World Project
