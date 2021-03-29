@@ -80,9 +80,12 @@
 
 ### Kafka Guarantees
 
+![](https://github.com/shamy1st/kafka/blob/main/images/kafka-guarantees.png)
 
+### Theory Roundup
 
-### 
+![](https://github.com/shamy1st/kafka/blob/main/images/theory-roundup.png)
+
 
 # Kafka Real World Project
 
