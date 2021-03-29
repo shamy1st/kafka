@@ -169,6 +169,12 @@
 
 ### Kafka Tools UI
 
+* https://www.kafkatool.com/
+
+
+## Kafka Java Programming 101
+
+
 
 
 # Kafka Real World Project
