@@ -20,7 +20,20 @@
 
 ![](https://github.com/shamy1st/kafka/blob/main/images/09-course-structure.png)
 
-## 
+## Kafka Fundamentals
+
+
+## Kafka Real World Project
+
+
+## Kafka Ecosystem & Real-World Architectures
+
+
+## Advanced Kafka
+
+
+## Annexes
+
 
 
 ## Ref
